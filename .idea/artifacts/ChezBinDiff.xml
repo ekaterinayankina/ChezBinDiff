@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ChezBinDiff">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChezBinDiff</output-path>
+    <root id="archive" name="ChezBinDiff.jar">
+      <element id="module-output" name="ChezBinDiff" />
+    </root>
+  </artifact>
+</component>
